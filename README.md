@@ -1,7 +1,5 @@
 # UT2 - AE202: Análisis Forense de la Memoria RAM
 
----
-
 ## 1. Introducción y Objetivo
 El objetivo de esta práctica es adquirir una imagen de la memoria RAM en un sistema Windows mediante **MemProcFS** y analizarla con **Volatility Workbench** para identificar procesos activos, conexiones de red, bibliotecas cargadas y posibles indicios de actividad maliciosa.
 
