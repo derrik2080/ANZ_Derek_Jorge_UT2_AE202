@@ -1,9 +1,4 @@
-# Práctica UT2 - AE202: Análisis Forense de la Memoria RAM
-
-* **Módulo:** Análisis Forenses (ANZ)
-* **Grupo:** 1ºA CE CETI (Curso 2025/26)
-* **Centro:** C.I.F.P. Villa de Agüimes
-* **Alumno/a:** Nombre y Apellidos
+# UT2 - AE202: Análisis Forense de la Memoria RAM
 
 ---
 
